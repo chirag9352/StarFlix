@@ -1,0 +1,7 @@
+.custom-scrollbar::-webkit-scrollbar {
+  width: 0; /* Width of the scrollbar */
+}
+.custom-scrollbar{
+  scroll-behavior:auto;
+  transition: all;
+}
